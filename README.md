@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soham</h1>
-<h3 align="center">I'm a freshman Computer Science student with a passion for learning and exploring the world of programming. Currently, I'm on a journey to master various programming languages and foundational computer science concepts.</h3>
+<h3 align="center">I'm a sophomore Computer Science student with a passion for learning and exploring the world of programming. Currently, I'm on a journey to master various programming languages and foundational computer science concepts.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamdarekar&label=Profile%20views&color=0e75b6&style=flat" alt="sohamdarekar" /> </p>
 
